@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha -R spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mklabs/template-copy.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-plugin-add-module-exports": "^0.2.1",
